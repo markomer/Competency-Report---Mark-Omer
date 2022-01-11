@@ -1,0 +1,63 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    
+}
+
+body{
+    background-color: gray;
+    text-justify: ;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: crimson;
+}
+
+h3{
+    background-color:#bd1ed2;
+    font-size: 20px;
+    color:#00ffff;
+    width:400px;
+    text-align: center;
+
+}
+    
+
+
+.text{
+    line-height: 2;
+    font-size: 18px;
+    width:80%;
+    text-transform: uppercase;
+
+}
+p{
+    line-height: 2;
+    font-size: 28px;
+}
+.blue-bg{
+    background-color:rgb(111, 162, 221);
+}
+.green-bg{
+    background-color:rgb(28, 134, 90)
+}
+
+ul{
+    background-color: lime;
+    font-size: 10px;
+    
+}
+
+.highlight-bg{
+    background-color: hsl(36, 72%, 43%);
+}
+
+.Thx{
+    font-size: 8px;
+    background-color: rgb(231, 156, 231);
+}
